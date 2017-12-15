@@ -1,2 +1,8 @@
 # Moonlitecoin.faucets
-{"title":"Moonlitecoin","cat":"Litecoin","description":"5 mins 43 litoshi"}
+<ul>
+  <li>Currency:Litecoin</li>
+  <li>Wait(min): 5</li>
+  <li>Min(litoshi): 100</li>
+  <li>Bonus(%): 300</li>
+  <li>Withdraw: Coinpot</li>
+</ul>
